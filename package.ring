@@ -1,7 +1,7 @@
 aPackageInfo = [
 	:name = "The RingCurl Package",
 	:description = "Our RingCurl package using the Ring programming language",
-	:folder = "RingCurl",
+	:folder = "ringcurl",
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
