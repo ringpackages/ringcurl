@@ -53,7 +53,6 @@ aPackageInfo = [
 
 	],
 	:windowsringfolderfiles = 	[
-		"bin/libcurl.dll",
 		"bin/ring_libcurl.dll"
 	],
 	:linuxringfolderfiles = 	[
