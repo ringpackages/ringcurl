@@ -26,7 +26,7 @@ aPackageInfo = [
 	],
 	:ringfolderfiles = 	[
 		"bin/load/libcurl.ring",
-		"ring2exe/libs/libcurl.ring",
+		"tools/ring2exe/libs/libcurl.ring",
 		"extensions/ringcurl/buildclang.sh",
 		"extensions/ringcurl/buildgcc.sh",
 		"extensions/ringcurl/buildvc.bat",
